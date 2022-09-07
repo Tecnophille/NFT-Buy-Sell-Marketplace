@@ -1,0 +1,51 @@
+.img-50 {
+    width: 50px;
+    height: 50px;
+}
+
+.img-width-120 {
+    width: 120px;
+}
+
+.width-100-per {
+    width: 100%;
+}
+
+.margin-left-20 {
+    margin-left: -20px;
+}
+
+.cur-pointer {
+    cursor: pointer;
+}
+
+/* Zai Custom CSS Start */
+.nav-sidebar .nav-treeview {
+    padding-left: 10px;
+}
+.nav .nav-treeview .nav-link {
+    width: calc(250px - 2.2rem);
+}
+.nav .nav-treeview .nav-link > i {
+    position: relative;
+    top: -3px;
+    font-size: 11px!important;
+    margin-right: 0.1rem!important;
+}
+
+.user-list-delete-icon {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: red;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 10px;
+}
+
+.user-list-delete-icon:hover {
+    color: #fff;
+}
+/* Zai Custom CSS End*/
